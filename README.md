@@ -1,2 +1,2 @@
 # Portfolio
-a presentation of articles written by me.
+Collection of articles written by agrima thakur. 
